@@ -1,6 +1,0 @@
-.idea
-logs/*
-!.gitkeep
-config/Four51APIAppName.js
-.orig
-node_modules/*
