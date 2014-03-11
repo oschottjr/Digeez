@@ -21,3 +21,8 @@ Template: Welcome
     color: #359FD5;
     background-color: #F7F6F6;
 }
+
+.jumbotron {
+    padding-bottom: 12px;
+    padding-top: 0px;
+}
