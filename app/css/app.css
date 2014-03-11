@@ -1508,17 +1508,17 @@ ul.view-variant-list{
 
 
 
-.category-product li:before {
-    content: "";
-    position: absolute;
-    top: 0;
-    right: 0;
-    border-width: 0 16px 16px 0;
-    border-style: solid;
-    border-color: #F7F6F6 #F7F6F6 #fff #fff;
-    background: #658E15;
-    display: block; width: 0;
-}
+/*.category-product li:before {*/
+    /*content: "";*/
+    /*position: absolute;*/
+    /*top: 0;*/
+    /*right: 0;*/
+    /*border-width: 0 16px 16px 0;*/
+    /*border-style: solid;*/
+    /*border-color: #F7F6F6 #F7F6F6 #fff #fff;*/
+    /*background: #658E15;*/
+    /*display: block; width: 0;*/
+/*}*/
 
 .view-phone-alert {display: block;}
 
